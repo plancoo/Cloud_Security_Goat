@@ -1,9 +1,9 @@
-# Cloud_Security_Notes
+# Cloud_Security_Goat
 
 * [General](general.md)
-* [AWS](aws.md)
+* [AWS](AWS)
 * [Azure](Azure)
-* [Google Cloud Platform](gcp.md)
-* [Cloud Info Gathering](cloud-info-recon.md)
-* [Docker && Kubernetes](docker-and-and-kubernetes.md)
-* [CDNs](cdn-comain-fronting.md)
+* [Google Cloud](GCP)
+* [Cloud Info Recon](cloud-info-recon.md)
+* [Container](Container)
+
