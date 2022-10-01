@@ -26,7 +26,7 @@ https://login.microsoftonline.com/getuserrealm.srf?login=username@COMPANY.onmicr
 - If NameSpaceType is "Managed", the company uses Azure AD
 - Enumerate Azure AD emails
 https://github.com/LMGsec/o365creeper
-
+ 
 Auth methods:
 • Password Hash Synchronization
    ◇ Azure AD Connect
