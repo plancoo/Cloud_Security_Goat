@@ -177,8 +177,8 @@ Azure: Subscriptions
 • The subscription name is usually informative
 • It might have “Prod”, or “Dev” in the title
 • Multiple subscriptions can be under the same Azure AD directory (tenant)
-• Each subscription can have multiple resource groups
-
+• Each subscription can have multiple resource groups 
+ 
 Azure User Information
 • Built-In Azure Subscription Roles
    ◇ Owner (full control over resource)
