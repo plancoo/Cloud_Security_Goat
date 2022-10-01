@@ -11,7 +11,7 @@ https://github.com/nccgroup/ScoutSuite
 https://github.com/hausec/PowerZure 
 https://github.com/fox-it/adconnectdump
 https://github.com/FSecureLABS/Azurite
-https://github.com/mburrough/pentestingazureapps
+https://github.com/mburrough/pentestingazureapps 
 https://github.com/Azure/Stormspotter
 https://github.com/nccgroup/azucar
 https://github.com/dafthack/MSOLSpray
