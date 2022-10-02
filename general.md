@@ -4,10 +4,10 @@
      
 ```text 
 # Non provider specific and general purpose   
-# https://github.com/nccgroup/ScoutSuite
+# https://github.com/nccgroup/ScoutSuite   
 # https://github.com/SygniaLabs/security-cloud-scout
 # https://github.com/initstring/cloud_enum
-python3 cloud_enum.py -k companynameorkeyword
+python3 cloud_enum.py -k companynameorkeyword 
 # https://github.com/cyberark/SkyArk
 # https://github.com/SecurityFTW/cs-suite
     cd /tmp
