@@ -48,8 +48,8 @@ https://support.google.com/cloud/answer/6262505?hl=en
 
 ![](../../.gitbook/assets/image%20%281%29.png)
 
-## Recon
-
+## Recon  
+ 
 ```text
 # PoC from Forward DNS dataset
 # This data is created by extracting domain names from a number of sources and then sending DNS queries for each domain.
