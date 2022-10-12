@@ -109,7 +109,7 @@ d=Winter2020&scope=openid
       ▪ If the password is expired
    ◇ https://docs.microsoft.com/en-us/azure/active-directory/develop/reference-aadsts-error-codes
 
-Password protections & Smart Lockout
+Password protections & Smart Lockout 
 • Azure Password Protection – Prevents users from picking passwords with certain words like seasons, company name, etc.
 • Azure Smart Lockout – Locks out auth attempts whenever brute force or spray attempts are detected.
    ◇ Can be bypassed with FireProx + MSOLSpray
