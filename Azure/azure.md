@@ -25,9 +25,9 @@ https://github.com/cyberark/blobhunter
 https://login.microsoftonline.com/getuserrealm.srf?login=username@COMPANY.onmicrosoft.com&xml=1
 - If NameSpaceType is "Managed", the company uses Azure AD
 - Enumerate Azure AD emails  
-https://github.com/LMGsec/o365creeper
+https://github.com/LMGsec/o365creeper  
  
-Auth methods:  
+Auth methods:    
 • Password Hash Synchronization
    ◇ Azure AD Connect
    ◇ On-prem service synchronizes hashed user credentials to Azure
