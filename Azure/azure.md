@@ -24,10 +24,10 @@ https://github.com/cyberark/blobhunter
 - Check if company is using Azure AD:
 https://login.microsoftonline.com/getuserrealm.srf?login=username@COMPANY.onmicrosoft.com&xml=1
 - If NameSpaceType is "Managed", the company uses Azure AD
-- Enumerate Azure AD emails
+- Enumerate Azure AD emails  
 https://github.com/LMGsec/o365creeper
  
-Auth methods:
+Auth methods:  
 • Password Hash Synchronization
    ◇ Azure AD Connect
    ◇ On-prem service synchronizes hashed user credentials to Azure
@@ -77,7 +77,7 @@ Microsoft Azure Storage:
 • The “Blob” access policy means anyone can anonymously read blobs, but can’t list the blobs in the container
 • The “Container” access policy allows for listing containers and blobs
 • Microburst https://github.com/NetSPI/MicroBurst
-   ◇ Invoke-EnumerateAzureBlobs
+   ◇ Invoke-EnumerateAzureBlobs 
    ◇ Brute forces storage account names, containers, and files
    ◇ Uses permutations to discover storage accounts
         PS > Invoke-EnumerateAzureBlobs –Base 
