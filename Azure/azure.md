@@ -439,7 +439,7 @@ site:*.blob.core.windows.net ext:xlsx | ext:csv "password"
 # Discovering with Dns enumeration
 python dnscan.py -d blob.core.windows.net -w subdomains-100.txt
 
-# When you found one try with curl, an empty container respond with 400
+# When you found one try with curl, an empty container respond with 400 
 
 # List containers
 az storage container list --connection-string '<connection string>'
