@@ -64,9 +64,9 @@ gcloud auth list
 gcloud init
 gcloud config configurations activate stolenkeys
 gcloud config list
-gcloud organizations list
+gcloud organizations list  
 gcloud organizations get-iam-policy <org ID>
-gcloud projects get-iam-policy <project ID>
+gcloud projects get-iam-policy <project ID>  
 gcloud iam roles list  --project=<project ID>
 gcloud beta asset search-all-iam-policies --query policy:"projects/xxxxxxxx/roles/CustomRole436" --project=xxxxxxxx
 gcloud projects list
