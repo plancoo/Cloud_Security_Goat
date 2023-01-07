@@ -3,7 +3,7 @@
 ## Basic Info   
 
 ```text   
-**Tools**  
+**Tools**     
 https://github.com/dirkjanm/ROADtools 
 https://github.com/dafthack/PowerMeta
 https://github.com/NetSPI/MicroBurst
@@ -31,7 +31,7 @@ Auth methods:
 • Password Hash Synchronization
    ◇ Azure AD Connect
    ◇ On-prem service synchronizes hashed user credentials to Azure
-   ◇ User can authenticate directly to Azure services like O365 with their internal domain credential
+   ◇ User can authenticate directly to Azure services like O365 with their internal domain credential  
 • Pass Through Authentication
    ◇  Credentials stored only on-prem
    ◇ On-prem agent validates authentication requests to Azure AD
